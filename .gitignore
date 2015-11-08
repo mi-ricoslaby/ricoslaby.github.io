@@ -1,0 +1,5 @@
+/vendor/*
+/web/bundles/*
+/.puli
+/.idea
+/vagrant/.vagrant
